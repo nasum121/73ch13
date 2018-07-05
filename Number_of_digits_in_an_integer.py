@@ -1,2 +1,2 @@
-a=intinput()
+a=int(input())
 print len(a)
