@@ -1,2 +1,2 @@
-a=int(input())
-print len(a)
+a=input("enter the number")
+print (len(a))
