@@ -1,7 +1,7 @@
-a=input("enter the number to be checked \n")
-if a.isdigit():
-	a=int(a)
-	if a%2==0:
+num=input("enter the number to be checked \n")
+if num.isdigit():
+	num=int(num)
+	if num%2==0:
 		print ("Even")
 	else:
 		print ("Odd")
