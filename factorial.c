@@ -5,6 +5,10 @@ int a,fact,i;
 fact=1;
 printf("");
 scanf("%d",&a);
+if (a==0)
+{
+	printf("%d",1);
+}
 if (a==1)
 {
 	printf("%d",a);
