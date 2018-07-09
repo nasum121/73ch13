@@ -1,4 +1,4 @@
-input = input("Enter a string \n").lower() 
+input = input("").lower() 
 words = input.split(' ')
 
 capitalized = []
