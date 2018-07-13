@@ -55,7 +55,7 @@ if n==4:
     count=min(a,b,c,d)
     for i in range(count):
         if s1[i]==s2[i]==s3[i]==s4[i]:
-            new_word.append(s[i])
+            new_word.append(s1[i])
     final="".join(new_word)
     print(final)
 if n==5:
