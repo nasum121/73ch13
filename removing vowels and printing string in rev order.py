@@ -1,5 +1,6 @@
-n,s=input().split()
+n=input()
 n=int(n)
+s=input()
 s=list(s)
 new=[]
 vowels='aeiouAEIOU'
