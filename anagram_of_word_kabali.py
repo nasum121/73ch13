@@ -1,5 +1,7 @@
-N=input()
-lis=input().split()
+N=int(input())
+lis=[]
+for k in range(N):
+    lis.append(input())
 s='kabali'
 s=list(s)
 count=0
