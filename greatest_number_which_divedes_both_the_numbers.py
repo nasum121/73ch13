@@ -22,3 +22,9 @@ if n>k:
         if list2[j] in list1:
             print(list2[j])
             break
+        
+if n==k:
+    for j in range(len(list2)):
+        if list2[j] in list1:
+            print(list2[j])
+            break
